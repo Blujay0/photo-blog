@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { Router } from 'react-router-dom'
+import { Swtich, Route, Redirect } from 'react-router-dom'
 
 
 const App = () => {
