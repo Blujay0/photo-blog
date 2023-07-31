@@ -2,6 +2,7 @@
 
 img {
   width: 30%;
+  height: auto;
   margin: calc(10%/6);
 }
 

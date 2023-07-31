@@ -5,20 +5,20 @@ const LandingPage = () => {
   return (
     <>
       <nav>Jay/Lim</nav>
-      {/* Massimo Margagnoni */}
-      <img alt='lakeshore' src="http://c1.staticflickr.com/9/8450/8026519634_f33f3724ea_b.jpg"/>
-      <img alt='waterfall' src="http://c2.staticflickr.com/8/7218/7209301894_c99d3a33c2_h.jpg"/>
-      <img alt='desert' src="http://c2.staticflickr.com/8/7231/6947093326_df216540ff_b.jpg"/>
+      {/* Niels Baars */}
+      <img alt='chilling Meerkat' src="https://images.unsplash.com/photo-1689793956921-3c59783b4e6a"/>
+      <img alt='prairie dog eating' src="https://images.unsplash.com/photo-1689790233876-ad83cddc83db"/>
+      <img alt='sleeping cat' src="https://images.unsplash.com/photo-1684702321656-adac7d9ac477"/>
 
-      {/* Giuseppe Milo */}
-      <img alt='airport' src="http://c1.staticflickr.com/9/8788/17367410309_78abb9e5b6_b.jpg"/>
-      <img alt='cyclist' src="http://c2.staticflickr.com/6/5814/20700286354_762c19bd3b_b.jpg"/>
-      <img alt='building next to river' src="http://c2.staticflickr.com/6/5647/21137202535_404bf25729_b.jpg"/>
+      {/* Rob Potter */}
+      <img alt='Lilac Breasted Roller' src="https://images.unsplash.com/photo-1688732252178-d73dddea8464"/>
+      <img alt='African lioness' src="https://images.unsplash.com/photo-1689758410652-7d7b210b7b52"/>
+      <img alt='orangutan' src="https://images.unsplash.com/photo-1690802029151-60c464079267"/>
 
-      {/* GÃķrlitzPhotography */}
-      <img alt='painter on ladder' src="http://c2.staticflickr.com/6/5588/14991687545_5c8e1a2e86_b.jpg"/>
-      <img alt='a lock' src="http://c2.staticflickr.com/4/3888/14878097108_5997041006_b.jpg"/>
-      <img alt='towed car' src="http://c2.staticflickr.com/8/7579/15482110477_0b0e9e5421_b.jpg"/>
+      {/* Janis Ringli */}
+      <img alt='colorful parrot' src="https://images.unsplash.com/photo-1688417143774-23e29359f465"/>
+      <img alt='green gecko' src="https://images.unsplash.com/photo-1688417158297-ff0fe1a0dfee"/>
+      <img alt='snowleopard looking up' src="https://images.unsplash.com/photo-1688417143495-6b0891fb58fa"/>
 
       {/* All Photos Licensed Under Creative Commons 2.0
       https://creativecommons.org/licenses/by/2.0/legalcode */}
