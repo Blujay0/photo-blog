@@ -7,7 +7,9 @@ const LandingPage = () => {
       <nav>Photography/Blog</nav>
       {/* Niels Baars */}
       <img alt='chilling Meerkat' src="https://images.unsplash.com/photo-1689793956921-3c59783b4e6a"/>
+
       <img alt='prairie dog eating' src="https://images.unsplash.com/photo-1689790233876-ad83cddc83db"/>
+      
       <img alt='sleeping cat' src="https://images.unsplash.com/photo-1684702321656-adac7d9ac477"/>
 
       {/* Rob Potter */}
